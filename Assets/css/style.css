@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.boom {
+  padding-bottom: 150px !important;
+}
+.phones {
+  margin-top: -250px;
+}
+#searchResult .card img {
+  width: 250px;
+  margin: auto;
+}
+#searchResult .card {
+  text-align: center;
+  padding: 10px;
+}
+#searchResult {
+  margin: auto;
+}

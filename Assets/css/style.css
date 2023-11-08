@@ -10,8 +10,9 @@
   margin-top: -250px;
 }
 #searchResult .card img {
-  width: 250px;
+  width: 200px;
   margin: auto;
+  margin-bottom: 10px;
 }
 #searchResult .card {
   text-align: center;
@@ -22,4 +23,12 @@
 }
 .fade:not(.show) {
   opacity: 1 !important;
+}
+#ShowDetails .modal__box .m__image {
+display: flex;
+justify-content: center !important;
+align-items: center !important;
+border-radius: 8px;
+background: rgba(13, 110, 253, 0.05);
+padding: 15px 0;
 }

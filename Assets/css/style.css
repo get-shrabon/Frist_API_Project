@@ -20,3 +20,6 @@
 #searchResult {
   margin: auto;
 }
+.fade:not(.show) {
+  opacity: 1 !important;
+}
